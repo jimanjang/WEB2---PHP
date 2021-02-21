@@ -32,7 +32,7 @@ from inflearn
 - [x]   글 수정 기능 구현하기
 - [x]   글 삭제 기능 구현하기
 ##마무리
-  파일로 모듈화 - require
-  보안
-  UI vs API 와 공부방법
-  수업을 마치며
+- [x]   파일로 모듈화 - require
+- [x]   보안
+- [x]   UI vs API 와 공부방법
+- [x]   수업을 마치며
